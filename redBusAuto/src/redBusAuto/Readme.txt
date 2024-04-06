@@ -11,6 +11,7 @@ Guidelines for Running the Project:
    You will have the wait time to proceed manually.
 9. After selecting date of journey left click Search_Buses button to continue.
 10.Close the primoAd if it pop ups any time you are on list of bus screen to continue the uninterrupted automation.
+11. redBusAuto is a main class running it will execute the automation test.
 
 
 Notes
